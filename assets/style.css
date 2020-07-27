@@ -231,4 +231,8 @@ footer {
         width: 100%;
         height: auto;
     }
+   
+   .episode h3, .episode p {
+        padding-left: 0px;
+    }
 }
