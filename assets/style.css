@@ -154,7 +154,8 @@ figure {
 footer {
     padding: 20px;
     color: white;
-    background-color:black;
+    background-color: black;
+    text-align: center;
 }
 
 @media screen and (max-width: 1000px) {
