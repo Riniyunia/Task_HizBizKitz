@@ -224,6 +224,7 @@ footer {
         
     .box {
             flex-grow: 1;
+            padding-right: 0px;
     }
         
     iframe {
