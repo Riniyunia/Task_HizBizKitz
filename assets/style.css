@@ -88,6 +88,10 @@ iframe {
     padding-top: 20px;
 }
 
+.episode h3, .episode p {
+    padding-left: 30px;
+}
+
 .container {
     display: flex;
 }
